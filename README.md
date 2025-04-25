@@ -1,7 +1,7 @@
 Ramazan Hajiyev
 =======================================================================================================================================
 
-Senior Frontend Developer
+Senior FullStack + Android Developer
 -------------------------
 
 * 🌍  I'm based in Azerbaijan, Baku
