@@ -7,7 +7,6 @@
 * ✉️  You can contact me at [ramazan.hajiyev@retix.dev](mailto:ramazan.hajiyev@retix.dev)
 * 🚀  I'm currently working on [Goldenpay](http://www.goldenpay.az) as Android Developer
 * 🧠  I'm learning Game Development on Godot engine
-- 🌱 I’m currently learning **Game Development**
 
 <p align="left">
 </p>
