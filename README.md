@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Game Development**
 
-- 📫 How to reach me **perfectingthevoid@gmail.com**
+- 📫 How to reach me **ramazan.hajiyev@retix.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
