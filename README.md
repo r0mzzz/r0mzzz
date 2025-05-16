@@ -16,7 +16,7 @@
 
 ### Badges
 
-<a href="https://github.com/rom3ik" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0mzzz&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=ececec&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/rom3ik" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0mzzz&langs_count=10&title_color=0891b2&text_color=171717&icon_color=0891b2&bg_color=ffffff&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r0mzzz&show_icons=true&locale=en&layout=compact" alt="r0mzzz" /></p>
 
